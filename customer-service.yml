@@ -1,0 +1,2 @@
+service1: 
+  property: "This is Service 1 specific property"
